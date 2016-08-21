@@ -1,0 +1,1 @@
+start chrome.exe reddit.com/r/desktops & start C:\Users\Sam\Documents\Console2\console.exe & start C:\Users\Sam\Documents\Console2\console.exe
